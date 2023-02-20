@@ -1,3 +1,2 @@
 # Excel-Gorsellestirme
-laps
-zort
+
