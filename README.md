@@ -1,6 +1,9 @@
 # Excel-Gorsellestirme
 
-Video ile anlatım için :
+Bu program gönüllü öğrenciler tarafından deprem zamanı elimizdeki excel tablolarını düzenlemek için oluşturuluştur. Programı yapabildiğimiz kadar son ürün haline getirerek açık kaynak olarak yayınlamak istedik. Bu metinde programın nasıl kullanılıcağını görsellerle anlıyabilirsiniz.
+
+# Programın nasıl kullanıldığı, nasıl kullanılabileceği ve nasıl indirip kurulabileceğinin anlatıldığı detaylı video:
+# Video linki:
 https://www.youtube.com/watch?v=8BKosn0jOas
 
 
