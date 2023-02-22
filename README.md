@@ -24,3 +24,6 @@ Dilerseniz her tablonun sağ alt kısmında bulunan büyüt tuşu ile verilerini
 
 Son olarak her tablonun altında bulunan excel butonu ile istediğiniz tabloyu, istediğiniz bir konuma excel çıktısı olarak alabilirsiniz.
 ![5](https://user-images.githubusercontent.com/97800760/220605794-59dd2dbc-c64f-4972-a0c3-9e339a77d024.gif)
+
+Program açık kaynaklıdır istediğiniz gibi değiştirebilir ve kullanabilirsiniz.
+Program her excel tablosunda çalışabilecek şekilde ayarlandı. Dilediğiniz gibi kullanabilirsiniz.
